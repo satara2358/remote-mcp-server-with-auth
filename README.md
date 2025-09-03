@@ -209,7 +209,7 @@ wrangler secret put GITHUB_CLIENT_SECRET
 wrangler secret put COOKIE_ENCRYPTION_KEY  # use: openssl rand -hex 32
 wrangler secret put DATABASE_URL
 wrangler secret put SENTRY_DSN  # optional (more on Sentry setup below)
-```
+``` 
 
 #### Test
 
